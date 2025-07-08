@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvel Michael</h1>
 <h3 align="center">Computer Science student at BINUS University with a strong passion for Web3 development. I'm constantly exploring blockchain technology, smart contracts, and decentralized applications (dApps).</h3>
 
-- 🌱 I’m currently learning **Solidity, Rust, Backend things**  
+- 🌱 I’m currently learning **Fullstack, Solidity, Rust, and all about data mining**  
 
 - 👯 I’m looking to collaborate on **Web3 Projects**  
 
