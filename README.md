@@ -1,6 +1,13 @@
 <div align="center">
 
-# Hi �, I'm Marvel Michael
+# Hi �, I'm Marv## 🌐 Connect with me
+
+<p align="center">
+<a href="https://twitter.com/@marvelgansboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marvelgansboi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marvel michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvel michael" height="30" width="40" /></a>
+<a href="https://instagram.com/marvel_michaelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvel_michaelll" height="30" width="40" /></a>
+<a href="https://discord.gg/users/marpeyyy_58295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marpeyyy_58295" height="30" width="40" /></a>
+</p>ael
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&width=435&lines=Web3+Developer;Blockchain+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
 
@@ -14,7 +21,7 @@
 
 ---
 
-## 🤝 Looking to collaborate on **Anything🤩**
+## 🤝 Looking to collaborate on **Web3 Projects**
 
 ## 📫 Reach me at **marvelmichael67@gmail.com**
 
@@ -49,3 +56,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marvelm67&show_icons=true&locale=en&layout=compact&theme=dark" alt="marvelm67" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marvelm67&show_icons=true&theme=dark" alt="marvelm67" />
+</p>
+```
