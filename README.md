@@ -6,10 +6,6 @@
 
 ### 🌱 Currently learning **Fullstack, Solidity, Rust** and **Data Mining**
 
-### ☕ Fun fact: **I like coffee**
-
-<img src="https://komarev.com/ghpvc/?username=marvelm67&color=blueviolet" alt="Profile views" />
-
 </div>
 
 ---
