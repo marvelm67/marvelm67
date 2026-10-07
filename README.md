@@ -1,79 +1,80 @@
 <div align="center">
-  <a href="https://github.com/marvelm67">
-    <img src="https://raw.githubusercontent.com/marvelm67/marvelm67/main/assets/readme-header.svg" alt="Hi, I'm Marvel Michael - Software Engineer" width="100%" />
-  </a>
+
+  <!-- Minimalist Cyber-Terminal Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Marvel%20Michael&fontSize=42&fontColor=58A6FF&fontAlignY=40&desc=QA%20Engineer%20%E2%80%A2%20Test%20Automation&descFontSize=16&descColor=8B949E&descAlignY=62" width="100%" />
+
+  <!-- Unique Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=40&lines=%F0%9F%A7%AA+QA+Engineer+%26+Test+Automation;%E2%9A%A1+AI-Assisted+Testing+%26+Efficiency;%F0%9F%9A%80+Web%2C+Mobile+%26+API+E2E+Suites" alt="Typing SVG" />
+
+  <p>
+    <a href="mailto:marvelmichael67@gmail.com"><img src="https://img.shields.io/badge/Email-marvelmichael67%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
+    <a href="https://linkedin.com/in/marvelmichaell/"><img src="https://img.shields.io/badge/LinkedIn-Marvel_Michael-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+    <a href="https://gitlab.com/marvelmichael67"><img src="https://img.shields.io/badge/GitLab-marvelmichael67-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" /></a>
+    <a href="https://discord.gg/users/marpeyyy_58295"><img src="https://img.shields.io/badge/Discord-marpeyyy__58295-0D1117?style=flat-square&logo=discord&logoColor=58A6FF" alt="Discord" /></a>
+    <a href="https://instagram.com/marvel_michaelll"><img src="https://img.shields.io/badge/Instagram-@marvel__michaelll-0D1117?style=flat-square&logo=instagram&logoColor=58A6FF" alt="Instagram" /></a>
+  </p>
+
 </div>
 
 ---
 
-# 👋 Hi, I'm Marvel Michael
+### 🧪 `// SYSTEM_OVERVIEW`
+
+```yaml
+role: QA Engineer & Test Automation
+focus: [Web Automation, API Testing, Mobile Testing, AI-Assisted QA]
+core_stack: [Playwright, Selenium, Katalon, Appium, Postman, Python, TypeScript]
+approach: "Designing reliable, high-coverage automated tests powered by modern tooling & AI-assisted workflows"
+```
+
+---
+
+### 🛠️ `// TECH_RADAR`
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&width=450&lines=Software+Engineer;Blockchain+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,selenium,postman,gitlab,docker,jenkins,githubactions,git,mysql&perline=6&theme=dark" />
 </div>
 
-A passionate **Software Engineer** focused on building innovative solutions, with a strong interest in **Web3** development and **Data Science**. Currently a Computer Science student dedicated to mastering cutting-edge technologies.
+<br/>
+
+<div align="center">
+
+| 🎯 Domain | ⚡ Tooling & Stack |
+| :--- | :--- |
+| **Web Testing** | Playwright, Selenium WebDriver, Katalon Studio |
+| **API Testing** | Postman, REST Assured, Dynamic Data-Driven (DDT) |
+| **Mobile Testing** | Appium, Katalon Mobile, Android SDK |
+| **AI in QA** | AI-Assisted Test Case Generation, Smart Locators & Scripting |
+| **CI/CD & Tools** | GitLab CI, GitHub Actions, Jenkins, Docker |
+
+</div>
 
 ---
 
-## 🚀 Skills & Focus Areas
+### 📂 `// SHOWCASE_PIPELINES`
 
-### 💻 Current Focus
-🌱 Currently deepening my knowledge in **Fullstack Development**, **Solidity** (Smart Contracts), **Rust** (High-Performance Applications), and **Data Mining** techniques.
+```zsh
+❯ ./run_suite.sh --all
 
-### 🛠️ Languages and Tools
-I utilize a diverse set of technologies to bring projects to life, ranging from Web3 and High-Performance computing to Data Science and Fullstack development.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" alt="JavaFX" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-</p>
+✔ Petstore Web Suite ....... [5/5 Passed] (Katalon, DDT, Dynamic Variables)
+✔ Petstore API E2E ......... [6/6 Passed] (REST WS, Full CRUD + Token Auth)
+✔ SauceLabs Mobile ......... [5/5 Passed] (Appium, Accessibility Matrix)
+✔ Data-Driven Engine ....... [Optimal]    (CSV/JSON Parameterization)
+```
 
 ---
 
-## 🤝 Let's Connect
+### 📊 `// METRICS & TELEMETRY`
 
-Looking to collaborate on **innovative Web3 Projects** or full-stack applications. I'm always open to new challenges and learning opportunities!
+<div align="center">
 
-* **📫 Reach me at:** **marvelmichael67@gmail.com**
+<img src="https://github-readme-stats.vercel.app/api?username=marvelm67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="150" alt="Stats" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=marvelm67&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="150" alt="Streak" />
 
-<p align="center">
-<a href="https://twitter.com/@marvelgansboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marvelgansboi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marvelmichaell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvel michael" height="30" width="40" /></a>
-<a href="https://instagram.com/marvel_michaelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvel_michaelll" height="30" width="40" /></a>
-<a href="https://discord.gg/users/marpeyyy_58295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marpeyyy_58295" height="30" width="40" /></a>
-</p>
+</div>
 
----
+<br/>
 
-## 📊 My GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marvelm67&show_icons=true&locale=en&layout=compact&theme=dark&title_color=58A6FF&icon_color=58A6FF&border_color=30363D" alt="marvelm67's Top Languages" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=marvelm67&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currstreak=58A6FF" alt="marvelm67's Streak" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=90&section=footer" width="100%" />
+</div>
