@@ -64,7 +64,7 @@ Looking to collaborate on **innovative Web3 Projects** or full-stack application
 
 <p align="center">
 <a href="https://twitter.com/@marvelgansboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marvelgansboi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marvel michael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvel michael" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marvelmichaell/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marvel michael" height="30" width="40" /></a>
 <a href="https://instagram.com/marvel_michaelll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marvel_michaelll" height="30" width="40" /></a>
 <a href="https://discord.gg/users/marpeyyy_58295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="marpeyyy_58295" height="30" width="40" /></a>
 </p>
